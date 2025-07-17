@@ -46,6 +46,23 @@ const FleetCarousel = () => {
     },
     {
       image:
+        "./strech.jpg",
+      name: "Lincoln Stretch Limo",
+      subtitle: "Ultimate Luxury Towncar",
+      capacity: "10",
+      luggage: "5",
+      description:
+        "The Lincoln Town Car is a full-size luxury sedan known for its smooth ride, spacious interior, and classic American styling.",
+      features: [
+        "Nappa Leather Upholstery",
+        "MBUX Infotainment System",
+        "Burmester® 3D Sound",
+        "Air Balance Cabin Fragrance",
+        "ENERGIZING Comfort Control",
+      ],
+    },
+    {
+      image:
         "https://sunnylimo.com/wp-content/uploads/2017/11/Escalade-front.jpg",
       name: "Cadillac Escalade",
       subtitle: "Luxury American SUV",
